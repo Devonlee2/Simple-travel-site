@@ -1,2 +1,2 @@
-# Simple-travel-site
+# Simple Travel Site
  
